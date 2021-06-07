@@ -68,7 +68,7 @@
 
         <!-- Test Dependencies: Only required for testing when building.  Not required by users at runtime: -->
         <groovy.version>2.3.0-beta-2</groovy.version>
-        <logback.version>1.0.7</logback.version>
+        <logback.version>1.2.0</logback.version>
         <easymock.version>3.3.1</easymock.version>
         <junit.version>4.12</junit.version>
         <powermock.version>1.6.2</powermock.version>
